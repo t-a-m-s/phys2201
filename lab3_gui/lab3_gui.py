@@ -64,7 +64,7 @@ class MainWindow(widget.QWidget):
         # Define initUI() function
         #self.initUI()
 
-        self.setWindowTitle('Lab 2 - Picket Fence Free Fall')
+        self.setWindowTitle('Lab 3 - Projectile Motion')
         self.setGeometry(1200, 800, 900, 600)    
         self.setLayout(widget.QGridLayout())
         
